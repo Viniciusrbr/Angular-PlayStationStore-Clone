@@ -1,10 +1,12 @@
 # PsnStore
 2º Projeto da Formação Angular Developer da <a href="https://www.dio.me/">Dio</a> de um Clone da pagina de Jogos da Playstation Store.
 Objetivo do projeto foi estudar os conceitos de atomicidade de componentes e organização de projetos em Angular.
+
+o modelo base para construir esse clone foi o da imagem abaixo:
+
+![Layout de Modelo](imgs-projeto/psn-layout.png)
+
 <hr/>
-
-
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
 ## Development server
